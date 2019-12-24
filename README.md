@@ -1,3 +1,18 @@
+![Code Status](https://img.shields.io/badge/status-obsolete-critical)
+
+[![Replacement](https://img.shields.io/static/v1?label=replacement&message=icm-bits-java&color=green)](https://github.com/ayeseeem/icm-bits-java)
+
+This code is **OBSOLETE**.
+You should use
+[ayeseeem/icm-bits-java](https://github.com/ayeseeem/icm-bits-java)
+instead, which is the same code, but in different Java packages.
+This repository is liable to be deleted.
+
+The name **`jtest`** made it look as though this was related to
+[Parasoft](https://www.parasoft.com/)'s
+[Jtest](https://www.parasoft.com/products/jtest).
+
+
 `icm-jtest`
 ===========
 
