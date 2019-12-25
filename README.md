@@ -5,7 +5,7 @@
 This code is **OBSOLETE**.
 You should use
 [ayeseeem/icm-bits-java](https://github.com/ayeseeem/icm-bits-java)
-instead, which is the same code, but in different Java packages.
+instead, which is the same code, but with extra features and in different Java packages.
 This repository is liable to be deleted.
 
 The name **`jtest`** made it look as though this was related to
