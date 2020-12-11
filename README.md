@@ -8,7 +8,7 @@ You should use
 instead, which is the same code, but with extra features and in different Java packages.
 This repository is liable to be deleted.
 
-The name **`jtest`** made it look as though this was related to
+The name **`jtest`** unfortunately - and unintentionally - made it look as though this was related to
 [Parasoft](https://www.parasoft.com/)'s
 [Jtest](https://www.parasoft.com/products/jtest).
 
